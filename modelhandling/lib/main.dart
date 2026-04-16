@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:modelhandling/screens/login_screen.dart';
-// import 'package:modelhandling/screens/home_page.dart';
-// import 'package:modelhandling/screens/product_page.dart';
-// import 'package:modelhandling/screens/student_screen.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
 Future<void> main() async {
